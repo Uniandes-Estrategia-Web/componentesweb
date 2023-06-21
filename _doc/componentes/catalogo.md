@@ -1,6 +1,7 @@
 ---
 title: Catálogo de componentes
 sections:
+- Bloque Acordeón
 - Banner slider
 - Bloque descripción
 - Bloque franja Cifras
@@ -18,6 +19,13 @@ sections:
 ## Diseño de bloques
 En este capítulo se explica los diferentes tipos de diseños que hay para cada vista 
 
+### **Bloque Acordeón**
+
+Este tipo de bloque al clickear se abre la información contenida, es de gran utilidad para no saturar la página con mucha información.
+
+<a href="assets/images/basic/acordeon.gif" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/basic/acordeon.gif" alt="Bloque Acordeón" />
+</a>
 
 ### **Banner slider**
 
