@@ -78,19 +78,3 @@ Por ejemplo, si tenemos páginas duplicadas o muy similares entre sí:
   <li>http://midominio.uniandes.com/contacto</li>
 </ul>
 
-<div class="row">
-<div class="col-md-7 col-sm-6 col-xs-12">
-<a href="assets/images/seo/encabezados.jpg" data-magnify="gallery" class="mask">
-    <img class="img-responsive rounded" src="assets/images/seo/encabezados.jpg" alt="Encabezados" />
-</a>
-</div>
-<div class="col-md-5 col-sm-6 col-xs-12">
-<p>Recomendaciones</p>
-<ul>
-  <li>Asegurese de solo agregar un bloque "Título de página" ya que contine el encabezado h1</li>
-  <li>Por página se debe usar un solo H1</li>
-  <li>Incluya la palabra clave principal para su contenido.</li>
-  <li>Evite llenar la etiqueta con demasiadas palabras clave.</li>
-</ul>
-<p>Las etiquetas H2 y H3 se usan comúnmente como subtítulos como se muestra en la imagen.</p>
-</div>
