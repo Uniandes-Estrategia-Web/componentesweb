@@ -67,7 +67,7 @@ los permisos son los controles de acceso granulares que determinan lo que un usu
             <span class="btn-green btn-cta">Admin <i class="fa fa-check-circle-o"></i></span>
             <span class="btn-green btn-cta">Gestor <i class="fa fa-check-circle-o"></i></span>
         </h4>
-        <p>para mejorar las capacidades multimedia y textos, se ofrece módulos adicionales y soluciones aportadas como la capacidad de gestionar bloques personalizados que proporcionan un marco sólido para el manejo, por ejemplo, puede crear tipos de medios para imágenes, textos y videos, estos tipos de bloques van ligados al tipo de contenido como lo son las páginas básicas.</p>
+        <p>Para mejorar las capacidades multimedia y textos, se ofrece módulos adicionales y soluciones aportadas como la capacidad de gestionar bloques personalizados que proporcionan un marco sólido para el manejo, por ejemplo, puede crear tipos de medios para imágenes, textos y videos, estos tipos de bloques van ligados al tipo de contenido como lo son las páginas básicas.</p>
     </div>
 </div>
 
@@ -81,7 +81,7 @@ los permisos son los controles de acceso granulares que determinan lo que un usu
             <span class="btn-green btn-cta">Admin <i class="fa fa-check-circle-o"></i></span>
             <span class="btn-green btn-cta">Gestor <i class="fa fa-check-circle-o"></i></span>
         </h4>
-        <p>los menús representan el contenedor o la estructura que contiene los elementos de menú individuales. Puede crear varios menús para servir diferentes propósitos en su sitio web. Por ejemplo, puede tener un "Menú principal" o "Menú de pie de página" que contenga enlaces a secciones importantes de su sitio, cada elemento del menú representa una página, contenido o URL específicos en los que los usuarios pueden hacer clic para navegar a un destino en particular. Puede realizar varias tareas, incluida la creación de menús, la adición de elementos de menú, la reorganización del orden de los elementos, la creación de submenús y la asignación de menús a regiones específicas.</p>
+        <p>Los menús representan el contenedor o la estructura que contiene los elementos de menú individuales. Puede crear varios menús para servir diferentes propósitos en su sitio web. Por ejemplo, puede tener un "Menú principal" o "Menú de pie de página" que contenga enlaces a secciones importantes de su sitio, cada elemento del menú representa una página, contenido o URL específicos en los que los usuarios pueden hacer clic para navegar a un destino en particular. Puede realizar varias tareas, incluida la creación de menús, la adición de elementos de menú, la reorganización del orden de los elementos, la creación de submenús y la asignación de menús a regiones específicas.</p>
     </div>
 </div>
 
@@ -350,7 +350,7 @@ los permisos son los controles de acceso granulares que determinan lo que un usu
             <span class="btn-green btn-cta">Admin <i class="fa fa-check-circle-o"></i></span>
             <span class="btn-green btn-cta">Gestor <i class="fa fa-check-circle-o"></i></span>
         </h4>
-        <p>puede interactuar con sistemas o aplicaciones externas consumiendo sus servicios web. Esto permite que aproveche las funcionalidades y los datos de otros sistemas. Google Analytics es un popular servicio de análisis web proporcionado por Google que permite a los propietarios de sitios web realizar un seguimiento y analizar varios aspectos del rendimiento de su sitio web. Proporciona información valiosa sobre el comportamiento de los visitantes, las fuentes de tráfico, las tasas de conversión y otras métricas importantes.</p>
+        <p>Puede interactuar con sistemas o aplicaciones externas consumiendo sus servicios web. Esto permite que aproveche las funcionalidades y los datos de otros sistemas. Google Analytics es un popular servicio de análisis web proporcionado por Google que permite a los propietarios de sitios web realizar un seguimiento y analizar varios aspectos del rendimiento de su sitio web. Proporciona información valiosa sobre el comportamiento de los visitantes, las fuentes de tráfico, las tasas de conversión y otras métricas importantes.</p>
     </div>
 </div>
 
