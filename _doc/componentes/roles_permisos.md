@@ -2,6 +2,7 @@
 title: ROLES Y PERMISOS
 sections:
 - Introducción
+- Planificado
 
 ---
 
@@ -20,7 +21,11 @@ los permisos son los controles de acceso granulares que determinan lo que un usu
         <i class="fa fa-star"></i>
     </div>
     <div class="content">
-        <h4 class="callout-title" id="">Ejemplo <i class="fa fa-bug"></i></h4>
-        <p>Nunc hendrerit odio quis dignissim efficitur. Proin ut finibus libero. Morbi posuere fringilla felis eget sagittis.</p>
+        <h4 class="callout-title" id="Planificado">
+            1.	Planificado  
+            <span class="btn btn-green btn-cta">Admin <i class="fa fa-user"></i></span>
+            <span class="btn btn-green btn-cta">Gestor <i class="fa fa-user"></i></span>
+        </h4>
+        <p>Los usuarios con permisos del sitio pueden crear elementos de contenido individuales previamente ya estructurados (artículos, publicaciones de blog, páginas básicas, Landings, entre otras), en función de ese tipo de contenido. Lo que facilita la administración y organización de diferentes tipos de contenido en un sitio.</p>
     </div>
 </div>
