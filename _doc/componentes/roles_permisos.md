@@ -14,13 +14,13 @@ Los roles en Drupal son conjuntos de permisos agrupados y asignados a los usuari
 
 los permisos son los controles de acceso granulares que determinan lo que un usuario puede hacer dentro de su sitio de Drupal.
 
-## Ejemplo
 
-<div class="callout-block">
+<div class="callout-block panel">
     <div class="icon-holder">
+        <i class="fa fa-star"></i>
     </div>
     <div class="content">
-        <h4 class="callout-title">Ejemplo</h4><i class="fas fa-bug"></i>
+        <h4 class="callout-title" id="">Ejemplo <i class="fa fa-bug"></i></h4>
         <p>Nunc hendrerit odio quis dignissim efficitur. Proin ut finibus libero. Morbi posuere fringilla felis eget sagittis.</p>
     </div>
 </div>
