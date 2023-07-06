@@ -23,8 +23,8 @@ Por medio de información y ejemplos se busca explicar la estructura y aplicaci�
 
 Al crear tu tipo de contenido (Basic page, Landing, entre otros...) te aparecerá por defecto en la pestaña **Tags básicos**, el titulo y la descripción que le pongas en el apartado principal, pero puedes cambiarlos.
 
-<a href="assets/images/landing/crear_1.jpg" data-magnify="gallery" class="col-sm-6">
-    <img class="img-responsive rounded" src="assets/images/landing/titulo.jpg" alt="Meta-títulos y Meta-Descripciones" />
+<a href="assets/images/seo/titulo.jpg" data-magnify="gallery" class="col-sm-6">
+    <img class="img-responsive rounded" src="assets/images/seo/titulo.jpg" alt="Meta-títulos y Meta-Descripciones" />
 </a>
 
 <div class="row">
