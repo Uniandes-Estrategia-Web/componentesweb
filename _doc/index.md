@@ -14,6 +14,7 @@ navigation:
   - /basic_page
   - /menu_footer
   - /seo
+  - /roles_permisos
 ---
 
 Esta guía de usuario explica en detalle cada uno de estos pasos y brindainformación de interés para personas con un conocimiento mínimo del sistema de gestión de contenido. 
