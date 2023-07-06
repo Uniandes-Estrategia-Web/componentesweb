@@ -156,7 +156,8 @@ code {
 }
 
 .btn-cta {
-    padding: 7px 15px
+    padding: 7px 15px;
+    font-size: 1.4rem;
 }
 
 .form-control {
