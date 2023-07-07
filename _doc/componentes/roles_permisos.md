@@ -177,7 +177,7 @@ los permisos son los controles de acceso granulares que determinan lo que un usu
         <h4 class="callout-title">
             12.	 Webform:
             <span class="btn-green btn-cta">Admin <i class="fa fa-check-circle-o"></i></span>
-            <span class="btn-red btn-cta">Gestor <i class="fa fa-times-circle-o"></i></span>
+            <span class="btn-warning btn-cta">Gestor (propio)<i class="fa fa-warning"></i></span>
         </h4>
         <p>Le permite crear y administrar formularios en su sitio web. Proporciona una interfaz fácil de usar para crear y configurar varios tipos de formularios, como formularios de contacto, encuestas, formularios de solicitud y más, estos pueden incluir campos tales como texto, casillas de verificación, correo electrónico, carga de archivos, entre otros.</p>
     </div>
