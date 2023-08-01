@@ -56,7 +56,17 @@ Para agregar las anclas es necesario hacer del [paso #1](#paso-1){: .scrollto} a
     <img class="rounded" src="assets/images/pagina/img_8.jpg" alt="Agregar bloque a contenido 2" class="col-sm-6" />
 </a>
 
-7. Por ultimo debe agregar
+7. Por ultimo, darle al botón **+ Add block** que aparece en el [paso #4](#paso-4){: .scrollto} y buscar un bloque llamado "Side anchors" ya que son las ANCLAS:
+
+<a href="assets/images/pagina/img_8.jpg" data-magnify="gallery">
+    <img class="rounded" src="assets/images/pagina/anclas_7.jpg" alt="Agregar bloque anclas a contenido" class="col-sm-6" />
+</a>
+
+8. Debe seleccionarlo y dejar en blanco la casilla "Mostrar titulo".
+9. Por ultimo, suba hasta la parte superior y darle al botón "Guardar diseño":
+<a href="assets/images/pagina/img_9.jpg" data-magnify="gallery">
+    <img class="rounded" src="assets/images/pagina/img_9.jpg" alt="Guardar diseño" class="col-sm-6" />
+</a>
 
 
 

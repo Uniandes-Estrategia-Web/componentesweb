@@ -6,10 +6,11 @@ sections:
 
 Una vez iniciada su sesión, si un administrador te concedió los permisos adecuados, deberás ir al menú superior en la pestaña:
 
-Estructura -> Menús -> Navegación principal
+Estructura → Menús → Navegación principal
 
 <a href="assets/images/menus/menu_1.jpg" data-magnify="gallery">
     <img class="rounded" src="assets/images/menus/menu_1.jpg" alt="Menú pestaña" class="col-sm-6" />
+    <div class="col-sm-6"></div>
 </a>
 
 ## Añadir nuevo enlace 
@@ -23,7 +24,6 @@ Ya estando allí debes darle al botón **+ Añadir enlace**
     <img class="img-responsive rounded" src="assets/images/menus/menu_2.jpg?v1" alt="Imágen menú 1" />
 </a>
 </div>
-    
 <div class="col-md-5 col-sm-6 col-xs-12">
 <p>1. Debes ingresar la url ya sea interna o externa (si es interna solo debes llamar el nombre de la página)</p>
 <p>2. Puedes ocultarla sin tener que eliminar</p>

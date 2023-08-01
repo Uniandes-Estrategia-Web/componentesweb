@@ -1,7 +1,7 @@
 ---
 title: Editar/Agregar enlaces Botones flotantes
 sections:
-- Añadir nuevo enlace boton flotante
+- Añadir boton flotante
 ---
 
 Una vez iniciada su sesión, si un administrador te concedió los permisos adecuados, deberás ir al menú superior en la pestaña:
@@ -10,9 +10,10 @@ Estructura -> Menús -> Botones flotantes
 
 <a href="assets/images/menus/botones_1.jpg" data-magnify="gallery">
     <img class="rounded" src="assets/images/menus/botones_1.jpg" alt="Botones flotantes" class="col-sm-6" />
+    <div class="col-sm-6"></div>
 </a>
 
-## Añadir nuevo enlace 
+## Añadir boton flotante
 
 Ya estando allí debes darle al botón **+ Añadir enlace**
 
