@@ -6,11 +6,10 @@ sections:
 
 Una vez iniciada su sesión, si un administrador te concedió los permisos adecuados, deberás ir al menú superior en la pestaña:
 
-Estructura -> Menús -> Botones flotantes
+Estructura → Menús → Botones flotantes
 
-<a href="assets/images/menus/botones_1.jpg" data-magnify="gallery">
+<a href="assets/images/menus/botones_1.jpg" data-magnify="gallery" class="col-sm-12">
     <img class="rounded" src="assets/images/menus/botones_1.jpg" alt="Botones flotantes" class="col-sm-6" />
-    <div class="col-sm-6"></div>
 </a>
 
 ## Añadir boton flotante
