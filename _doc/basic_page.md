@@ -1,5 +1,5 @@
 ---
-title: Crear basic page
+title: Crear basic page y anclas
 excerpt: La guia te enseñará a como crear una basic page y agregar anclas a esta misma desde cero 
 date: 2023-04-27
 icon:

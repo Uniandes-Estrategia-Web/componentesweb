@@ -2,7 +2,7 @@
 title: Agregar anclas
 sections:
 - Crear bloque para ancla
-
+- Poner anclas
 
 ---
 
