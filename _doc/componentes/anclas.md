@@ -64,8 +64,8 @@ Para agregar las anclas es necesario hacer del [paso #1](#paso-1){: .scrollto} a
 
 8. Debe seleccionarlo y dejar en blanco la casilla "Mostrar titulo".
 9. Por ultimo, suba hasta la parte superior y darle al botón "Guardar diseño":
-<a href="assets/images/pagina/img_9.jpg" data-magnify="gallery" class="col-sm-12">
-    <img class="rounded" src="assets/images/pagina/img_9.jpg" alt="Guardar diseño" class="col-sm-6" />
+<a href="assets/images/pagina/img_9.jpg" data-magnify="gallery">
+    <img class="rounded" src="assets/images/pagina/img_9.jpg" alt="Guardar diseño" />
 </a>
 
 
