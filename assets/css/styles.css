@@ -1559,7 +1559,7 @@ select {
     position: fixed;
     z-index: 1;
     left: 50%;
-    bottom: 30px;
+    bottom: 5px;
 }
 
 .flex-container {
