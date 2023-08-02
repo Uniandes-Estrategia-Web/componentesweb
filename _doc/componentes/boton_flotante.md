@@ -35,19 +35,19 @@ Ya estando allí debes darle al botón **+ Añadir enlace**
 
 <h3 class="mt-2">Parte 2</h3>
 <div class="row">
-<div class="col-md-7 col-sm-6 col-xs-12">
+<div class="col-md-6 col-sm-6 col-xs-12">
 <a href="assets/images/menus/menu_3.jpg" data-magnify="gallery" class="mask">
     <img class="img-responsive rounded" src="assets/images/menus/menu_3.jpg" alt="Imágen botones flotantes 2" />
 </a> 
 </div>
-<div class="col-md-5 col-sm-6 col-xs-12">
+<div class="col-md-6 col-sm-6 col-xs-12">
 <a href="assets/images/menus/botones_2.jpg" data-magnify="gallery" class="mask">
     <img class="img-responsive rounded" src="assets/images/menus/botones_2.jpg" alt="Imágen botones flotantes 2.1" />
 </a> 
 </div>
 </div>
 
-<b>Para el paso #6 debes desplegar la pestaña "atributos".
+Para el paso #6 debes desplegar la pestaña "atributos".
 6. Puedes abrirlo en una nueva pestaña dejando la opción "_blank" o dejando en la misma ventana "_self".
 7. Debes seleccionar uno de los iconos predefinidos.
 8. Selecciona un color con el cual el icono va a aparecer, ya sea negro o blanco.
