@@ -48,10 +48,10 @@ Ya estando allí debes darle al botón **+ Añadir enlace**
 </div>
 
 Para el paso #6 debes desplegar la pestaña "atributos".
-6. Puedes abrirlo en una nueva pestaña dejando la opción "_blank" o dejando en la misma ventana "_self".
-7. Debes seleccionar uno de los iconos predefinidos.
-8. Selecciona un color con el cual el icono va a aparecer, ya sea negro o blanco.
-9. Elige un color de fondo pero ¡ten cuidado!. El color del ICONO tiene que resaltar.
-10. Puedes asociarlo a un enlace padre o de segundo nivel.
+<p>6. Puedes abrirlo en una nueva pestaña dejando la opción "_blank" o dejando en la misma ventana "_self".</p>
+<p>7. Debes seleccionar uno de los iconos predefinidos.</p>
+<p>8. Selecciona un color con el cual el icono va a aparecer, ya sea negro o blanco.</p>
+<p>9. Elige un color de fondo pero ¡ten cuidado!. El color del ICONO tiene que resaltar.</p>
+<p>10. Puedes asociarlo a un enlace padre o de segundo nivel.</p>
 Al terminar de llenar los campos mencionados anteriormente, deberás darle al botón **"Guardar"**
 
