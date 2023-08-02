@@ -215,26 +215,26 @@ a.btn-pink.hover {
     border: 1px solid #e73c87
 }
 
-.btn-purple,
-a.btn-purple {
-    background: #8A40A7;
-    border: 1px solid #8A40A7;
+.btn-negro,
+a.btn-negro {
+    background: #2D2D2C;
+    border: 1px solid #2D2D2C;
     color: #fff !important
 }
 
-.btn-purple:hover,
-.btn-purple:focus,
-.btn-purple:active,
-.btn-purple.active,
-.btn-purple.hover,
-a.btn-purple:hover,
-a.btn-purple:focus,
-a.btn-purple:active,
-a.btn-purple.active,
-a.btn-purple.hover {
-    background: #7b3995;
+.btn-negro:hover,
+.btn-negro:focus,
+.btn-negro:active,
+.btn-negro.active,
+.btn-negro.hover,
+a.btn-negro:hover,
+a.btn-negro:focus,
+a.btn-negro:active,
+a.btn-negro.active,
+a.btn-negro.hover {
+    background: #1D1D1C;
     color: #fff !important;
-    border: 1px solid #7b3995
+    border: 1px solid #1D1D1C
 }
 
 .btn-cta {
@@ -1554,6 +1554,19 @@ select {
     border-color: #747474
 }
 
+.cookies {
+    font-size: 17px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 30px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
 .m-0 {
     margin: 0 !important;
 }
@@ -1944,4 +1957,10 @@ select {
     .cards-section .item-inner {
         padding: 30px 15px
     }
+}
+
+@media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
 }
