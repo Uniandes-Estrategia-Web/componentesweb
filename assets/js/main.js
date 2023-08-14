@@ -81,7 +81,7 @@ $(document).ready(function () {
     }
     
     $('[cookies]').click(() => {
-        setCookie('allowCookies', '1', 7)
+        setCookie('allowCookies', '1', 99)
         $("[cookie-alert]").remove();
     })
     
