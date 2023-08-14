@@ -9,7 +9,7 @@ sections:
 Configuráción → Auditoría de contenido → Uniandes Search Settings o Ajustes de búsqueda Uniandes
 
 <a href="assets/images/configuraciones/buscador_1.jpg" data-magnify="gallery" class="col-sm-12">
-    <img class="rounded" src="assets/images/configuraciones/buscador_1.jpg" alt="Buscador pestaña" class="col-sm-6 img-responsive" />
+    <img src="assets/images/configuraciones/buscador_1.jpg" alt="Buscador pestaña" class="col-sm-6 col-xs-12 img-responsive" />
 </a>
 
 
