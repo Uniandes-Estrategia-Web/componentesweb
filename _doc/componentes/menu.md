@@ -9,7 +9,7 @@ Una vez iniciada su sesión, si un administrador te concedió los permisos adecu
 Estructura → Menús → Navegación principal
 
 <a href="assets/images/menus/menu_1.jpg" data-magnify="gallery" class="col-sm-12">
-    <img class="rounded" src="assets/images/menus/menu_1.jpg" alt="Menú pestaña" class="col-sm-6" />
+    <img class="rounded" src="assets/images/menus/menu_1.jpg" alt="Menú pestaña" class="col-sm-6 img-responsive" />
 </a>
 
 ## Añadir nuevo enlace 
