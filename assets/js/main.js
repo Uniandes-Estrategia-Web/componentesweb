@@ -75,6 +75,8 @@ $(document).ready(function () {
     function cookieConsent() {
         if (getCookie('allowCookies')) {
             $("[cookie-alert]").remove();
+        } else {
+            $("[cookie-alert]").show();
         }
     }
     
