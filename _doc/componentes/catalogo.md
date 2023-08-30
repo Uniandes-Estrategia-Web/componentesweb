@@ -90,22 +90,53 @@ En este bloque tienes una variedad de diseños las cuales puedes ajustar en el d
 
 ### **Bloque Imagen Texto Botón**
 
-Tienes variedades de combinaciones ajustando el efecto visual, ubicación de la imagen, y ubicación de la imagen de fondo, a continuación, las personalizaciones que puedes hacer **( la imagen del fondo puede cambiar al lado del texto añadiendo la opción "Imagen de fondo Izquierda ó derecha dependiendo de la posición de la imagen principal )**. 
+Tienes en total 9 diseños para elegir dependiendo las necesidades que tengas para tu sitio. 
 
-* Las Ubicacion de imagen “Full Width” e Imagen de fondo “Full Width” Usarlo con el efecto “SlideNav". Al pasar el cursor se mostrará el contenido
-<a href="assets/images/basic/imagen_texto_boton_1.gif" data-magnify="gallery">
-    <img class="img-responsive rounded" src="assets/images/basic/imagen_texto_boton_1.gif" alt="Bloque Imagen texto botón 1" />
+* Diseño 1 
+<a href="assets/images/basic/diseno_1.jpg" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/basic/diseno_1.jpg" alt="Bloque Imagen texto botón diseño 1" />
 </a>
 
-* Ubicación de imagen “Derecha”, Imagen de fondo “Derecha”
+* Diseño 2 
+<a href="assets/images/basic/diseno_2.jpg" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/basic/diseno_2.jpg" alt="Bloque Imagen texto botón diseño 2" />
+</a>
+
+* Diseño 3 
+<a href="assets/images/basic/diseno_3.jpg" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/basic/diseno_3.jpg" alt="Bloque Imagen texto botón diseño 3" />
+</a>
+
+* Diseño 4 
+<a href="assets/images/basic/diseno_4.jpg" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/basic/diseno_4.jpg" alt="Bloque Imagen texto botón diseño 4" />
+</a>
+
+* Diseño 5 
+<a href="assets/images/basic/diseno_5.jpg" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/basic/diseno_4.jpg" alt="Bloque Imagen texto botón diseño 5" />
+</a>
+
+* Diseño 6
+<a href="assets/images/basic/diseno_6.jpg" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/basic/diseno_6.jpg" alt="Bloque Imagen texto botón diseño 6" />
+</a>
+
+* Diseño 7 
 <a href="assets/images/basic/imagen_texto_boton_2.jpg" data-magnify="gallery">
-    <img class="img-responsive rounded" src="assets/images/basic/imagen_texto_boton_2.jpg" alt="Bloque Imagen texto botón 2" />
+    <img class="img-responsive rounded" src="assets/images/basic/imagen_texto_boton_2.jpg" alt="Bloque Imagen texto botón diseño 7" />
 </a>
 
-* Ubicación de imagen “izquierda”, Imagen de fondo “Derecha”
+* Diseño 8
 <a href="assets/images/basic/imagen_texto_boton_4.jpg" data-magnify="gallery">
-    <img class="img-responsive rounded" src="assets/images/basic/imagen_texto_boton_4.jpg" alt="Bloque Imagen texto botón 3" />
+    <img class="img-responsive rounded" src="assets/images/basic/imagen_texto_boton_4.jpg" alt="Bloque Imagen texto botón diseño 8" />
 </a>
+
+* Diseño 9
+<a href="assets/images/basic/imagen_texto_boton_1.gif" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/basic/imagen_texto_boton_1.gif" alt="Bloque Imagen texto botón diseño 9" />
+</a>
+
 
 ### **Bloque Imagen más dos textos**
 
