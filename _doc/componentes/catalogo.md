@@ -114,7 +114,7 @@ Tienes en total 9 diseños para elegir dependiendo las necesidades que tengas pa
 
 * Diseño 5 
 <a href="assets/images/basic/diseno_5.jpg" data-magnify="gallery">
-    <img class="img-responsive rounded" src="assets/images/basic/diseno_4.jpg" alt="Bloque Imagen texto botón diseño 5" />
+    <img class="img-responsive rounded" src="assets/images/basic/diseno_5.jpg" alt="Bloque Imagen texto botón diseño 5" />
 </a>
 
 * Diseño 6
