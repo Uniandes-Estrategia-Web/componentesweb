@@ -85,8 +85,6 @@ $(document).ready(function () {
         $("[cookie-alert]").remove();
     })
     
-    Scrollbar.initAll();
-    
     // load
     cookieConsent()
     
