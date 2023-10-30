@@ -29,16 +29,58 @@ Este tipo de bloque al clickear se abre la información contenida, es de gran ut
 
 ### **Banner slider**
 
-Está diseñado para la cabecera de los basic page, puedes agregar la cantidad de imágenes que gustes (te pedirá también imágenes para todos los dispositivos), puedes poner un botón en cada slide si quieres que redireccione a tu lugar de preferencia **Puedes agregar la cantidad de sliders que desees**:
-    
-* Primer slide
-<a href="assets/images/basic/bloque_primer_slide.jpg" data-magnify="gallery" >
-    <img class="img-responsive rounded" src="assets/images/basic/bloque_primer_slide.jpg" alt="Primer slider" />
+Está diseñado para la cabecera de los basic page, puedes agregar la cantidad de imágenes y diseños que gustes (te pedirá también imágenes para todos los dispositivos), puedes poner un botón en cada slide si quieres que redireccione a tu lugar de preferencia **Puedes agregar la cantidad de sliders con el diseño que desees**:
+
+### **Configuración de color**
+
+En algunos diseños tendrás la opción de modificar el color del texto (Blanco o negro) y del fondo de color del texto a tu gusto, presionando el recuadro que aparecen en la siguiente imagen: 
+<a href="assets/images/basic/carrusel/color.jpg" data-magnify="gallery" >
+    <img class="img-responsive rounded" src="assets/images/basic/carrusel/color.jpg" alt="Configuración de color" />
 </a>
 
-* Segundo slide
-<a href="assets/images/basic/bloque_segundo_slide.jpg" data-magnify="gallery">
-    <img class="img-responsive rounded" src="assets/images/basic/bloque_segundo_slide.jpg" alt="Segundo slider" />
+* Diseño #1
+
+<a href="assets/images/basic/carrusel/1.jpg" data-magnify="gallery" >
+    <img class="img-responsive rounded" src="assets/images/basic/carrusel/1.jpg" alt="Diseño slider Numero 1" />
+</a>
+
+* Diseño #2
+<a href="assets/images/basic/carrusel/2.jpg" data-magnify="gallery" >
+    <img class="img-responsive rounded" src="assets/images/basic/carrusel/2.jpg" alt="Diseño slider Numero 2" />
+</a>
+
+* Diseño #3
+<a href="assets/images/basic/carrusel/3.jpg" data-magnify="gallery" >
+    <img class="img-responsive rounded" src="assets/images/basic/carrusel/3.jpg" alt="Diseño slider Numero 2" />
+</a>
+
+* Diseño #4, #5 y #6
+<ul>
+  <li>Diseño #4: Los textos están alineados en el centro</li>
+  <li>Diseño #5: Los textos están alineados a la izquierda</li>
+  <li>Diseño #6: Los textos están alineados a la derecha</li>
+</ul>
+<a href="assets/images/basic/carrusel/4-5-6.jpg" data-magnify="gallery" >
+    <img class="img-responsive rounded" src="assets/images/basic/carrusel/4-5-6.jpg" alt="Diseño slider Numero 4, 5 y 6" />
+</a>
+
+* Diseño #7, #8 y #9
+<ul>
+  <li>Diseño #7: Los textos están alineados a la izquierda</li>
+  <li>Diseño #8: Los textos están alineados a la derecha</li>
+  <li>Diseño #9: Los textos están alineados en el centro</li>
+</ul>
+<a href="assets/images/basic/carrusel/7-8-9.jpg" data-magnify="gallery" >
+    <img class="img-responsive rounded" src="assets/images/basic/carrusel/7-8-9.jpg" alt="Diseño slider Numero 7, 8 y 9" />
+</a>
+
+* Diseño #10 y #11
+<ul>
+  <li>Diseño #10: Los textos están alineados a la izquierda e imagen secundaria web alineada a la derecha</li>
+  <li>Diseño #11: Los textos están alineados a la derecha e imagen secundaria web alineada a la izquierda</li>
+</ul>
+<a href="assets/images/basic/carrusel/10-11.jpg" data-magnify="gallery" >
+    <img class="img-responsive rounded" src="assets/images/basic/carrusel/7-8-9.jpg" alt="Diseño slider Numero 10 y 11" />
 </a>
 
 ### **Bloque descripción**
