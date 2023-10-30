@@ -80,7 +80,7 @@ En algunos diseños tendrás la opción de modificar el color del texto (Blanco 
   <li>Diseño #11: Los textos están alineados a la derecha e imagen secundaria web alineada a la izquierda</li>
 </ul>
 <a href="assets/images/basic/carrusel/10-11.jpg" data-magnify="gallery" >
-    <img class="img-responsive rounded" src="assets/images/basic/carrusel/7-8-9.jpg" alt="Diseño slider Numero 10 y 11" />
+    <img class="img-responsive rounded" src="assets/images/basic/carrusel/10-11.jpg" alt="Diseño slider Numero 10 y 11" />
 </a>
 
 ### **Bloque descripción**
