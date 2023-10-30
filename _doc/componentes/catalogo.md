@@ -38,23 +38,22 @@ En algunos diseños tendrás la opción de modificar el color del texto (Blanco 
     <img class="img-responsive rounded" src="assets/images/basic/carrusel/color.jpg" alt="Configuración de color" />
 </a>
 
-** Diseño #1 **
-
+<b>Diseño #1</b>
 <a href="assets/images/basic/carrusel/1.jpg" data-magnify="gallery" >
     <img class="img-responsive rounded" src="assets/images/basic/carrusel/1.jpg" alt="Diseño slider Numero 1" />
 </a>
 
-** Diseño #2 **
+<b>Diseño #2</b>
 <a href="assets/images/basic/carrusel/2.jpg" data-magnify="gallery" >
     <img class="img-responsive rounded" src="assets/images/basic/carrusel/2.jpg" alt="Diseño slider Numero 2" />
 </a>
 
-** Diseño #3 **
+<b>Diseño #3</b>
 <a href="assets/images/basic/carrusel/3.jpg" data-magnify="gallery" >
     <img class="img-responsive rounded" src="assets/images/basic/carrusel/3.jpg" alt="Diseño slider Numero 2" />
 </a>
 
-** Diseño #4, #5 y #6 **
+<b>Diseño #4, #5 y #6</b>
 <ul>
   <li>Diseño #4: Los textos están alineados en el centro</li>
   <li>Diseño #5: Los textos están alineados a la izquierda</li>
@@ -64,7 +63,7 @@ En algunos diseños tendrás la opción de modificar el color del texto (Blanco 
     <img class="img-responsive rounded" src="assets/images/basic/carrusel/4-5-6.jpg" alt="Diseño slider Numero 4, 5 y 6" />
 </a>
 
-** Diseño #7, #8 y #9 **
+<b>Diseño #7, #8 y #9</b>
 <ul>
   <li>Diseño #7: Los textos están alineados a la izquierda</li>
   <li>Diseño #8: Los textos están alineados a la derecha</li>
@@ -74,7 +73,7 @@ En algunos diseños tendrás la opción de modificar el color del texto (Blanco 
     <img class="img-responsive rounded" src="assets/images/basic/carrusel/7-8-9.jpg" alt="Diseño slider Numero 7, 8 y 9" />
 </a>
 
-** Diseño #10 y #11 **
+<b>Diseño #10 y #11</b>
 <ul>
   <li>Diseño #10: Los textos están alineados a la izquierda e imagen secundaria web alineada a la derecha</li>
   <li>Diseño #11: Los textos están alineados a la derecha e imagen secundaria web alineada a la izquierda</li>
