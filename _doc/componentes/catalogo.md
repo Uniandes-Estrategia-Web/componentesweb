@@ -27,7 +27,7 @@ Este tipo de bloque al clickear se abre la información contenida, es de gran ut
     <img class="img-responsive rounded" src="assets/images/basic/acordeon.gif" alt="Bloque Acordeón" />
 </a>
 
-### **Banner slider**
+## **Banner slider**
 
 Está diseñado para la cabecera de los basic page, puedes agregar la cantidad de imágenes y diseños que gustes (te pedirá también imágenes para todos los dispositivos), puedes poner un botón en cada slide si quieres que redireccione a tu lugar de preferencia **Puedes agregar la cantidad de sliders con el diseño que desees**:
 
@@ -38,23 +38,23 @@ En algunos diseños tendrás la opción de modificar el color del texto (Blanco 
     <img class="img-responsive rounded" src="assets/images/basic/carrusel/color.jpg" alt="Configuración de color" />
 </a>
 
-* Diseño #1
+** Diseño #1 **
 
 <a href="assets/images/basic/carrusel/1.jpg" data-magnify="gallery" >
     <img class="img-responsive rounded" src="assets/images/basic/carrusel/1.jpg" alt="Diseño slider Numero 1" />
 </a>
 
-* Diseño #2
+** Diseño #2 **
 <a href="assets/images/basic/carrusel/2.jpg" data-magnify="gallery" >
     <img class="img-responsive rounded" src="assets/images/basic/carrusel/2.jpg" alt="Diseño slider Numero 2" />
 </a>
 
-* Diseño #3
+** Diseño #3 **
 <a href="assets/images/basic/carrusel/3.jpg" data-magnify="gallery" >
     <img class="img-responsive rounded" src="assets/images/basic/carrusel/3.jpg" alt="Diseño slider Numero 2" />
 </a>
 
-* Diseño #4, #5 y #6
+** Diseño #4, #5 y #6 **
 <ul>
   <li>Diseño #4: Los textos están alineados en el centro</li>
   <li>Diseño #5: Los textos están alineados a la izquierda</li>
@@ -64,7 +64,7 @@ En algunos diseños tendrás la opción de modificar el color del texto (Blanco 
     <img class="img-responsive rounded" src="assets/images/basic/carrusel/4-5-6.jpg" alt="Diseño slider Numero 4, 5 y 6" />
 </a>
 
-* Diseño #7, #8 y #9
+** Diseño #7, #8 y #9 **
 <ul>
   <li>Diseño #7: Los textos están alineados a la izquierda</li>
   <li>Diseño #8: Los textos están alineados a la derecha</li>
@@ -74,7 +74,7 @@ En algunos diseños tendrás la opción de modificar el color del texto (Blanco 
     <img class="img-responsive rounded" src="assets/images/basic/carrusel/7-8-9.jpg" alt="Diseño slider Numero 7, 8 y 9" />
 </a>
 
-* Diseño #10 y #11
+** Diseño #10 y #11 **
 <ul>
   <li>Diseño #10: Los textos están alineados a la izquierda e imagen secundaria web alineada a la derecha</li>
   <li>Diseño #11: Los textos están alineados a la derecha e imagen secundaria web alineada a la izquierda</li>
