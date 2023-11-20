@@ -49,26 +49,36 @@ $(document).ready(function () {
         initMaximized: true,
         footToolbar: ['zoomIn', 'zoomOut', 'actualSize', 'rotateRight'],
     });
-    
+
     /* ===== Sweet Alert ===== */
-    
+
     function openAlert() {
         Swal.fire({
             heightAuto: false,
-            html: '<iframe width="100%" height="400" src="https://www.youtube.com/embed/AV0f65V7Wy0?si=gzj6lBpsXUhLtqi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+            showCancelButton: true,
+            confirmButtonText: "No volver a mostrar",
+            html: '<iframe width="100%" height="700" src="https://www.youtube.com/embed/AV0f65V7Wy0?si=gzj6lBpsXUhLtqi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
             width: '1000',
             imageAlt: 'Video Seneca UNIANDES',
             backdrop: `
-                rgba(0,0,123,0.4)
+                rgba(0,0,0,0.4)
                 url("assets/videos/background.png")
                 left top
                 no-repeat
             `
+        }).then((result) => {
+            if (result.isConfirmed) {
+                setCookie('sweetCookies', '1', 99)
+            }
         });
     }
+    
+    //Open alert
     if ($("[sweet-alert]").length) {
         $("[ver-video]").on('click', openAlert);
-        openAlert()
+        if (!getCookie('sweetCookies')) {
+            openAlert()
+        }
     }
     /* ===== Cookies ===== */
     function setCookie(name, value, days) {
@@ -80,7 +90,7 @@ $(document).ready(function () {
         }
         document.cookie = name + "=" + (value || "") + expires + "; path=/";
     }
-    
+
     function getCookie(name) {
         var nameEQ = name + "=";
         var ca = document.cookie.split(';');
@@ -91,7 +101,7 @@ $(document).ready(function () {
         }
         return null;
     }
-    
+
     function cookieConsent() {
         if (getCookie('allowCookies')) {
             $("[cookie-alert]").remove();
@@ -99,13 +109,13 @@ $(document).ready(function () {
             $("[cookie-alert]").show();
         }
     }
-    
+
     $('[cookies]').click(() => {
         setCookie('allowCookies', '1', 99)
         $("[cookie-alert]").remove();
     })
-    
+
     // load
     cookieConsent()
-    
+
 });
