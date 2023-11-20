@@ -55,7 +55,7 @@ $(document).ready(function () {
     function openAlert() {
         Swal.fire({
             heightAuto: false,
-            showCancelButton: true,
+            showCloseButton: true,
             confirmButtonText: "No volver a mostrar",
             html: '<iframe width="100%" height="700" src="https://www.youtube.com/embed/AV0f65V7Wy0?si=gzj6lBpsXUhLtqi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
             width: '1000',
