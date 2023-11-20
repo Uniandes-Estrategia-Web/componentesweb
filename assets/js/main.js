@@ -50,6 +50,26 @@ $(document).ready(function () {
         footToolbar: ['zoomIn', 'zoomOut', 'actualSize', 'rotateRight'],
     });
     
+    /* ===== Sweet Alert ===== */
+    
+    function openAlert() {
+        Swal.fire({
+            heightAuto: false,
+            html: '<iframe width="100%" height="400" src="https://www.youtube.com/embed/AV0f65V7Wy0?si=gzj6lBpsXUhLtqi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+            width: '1000',
+            imageAlt: 'Video Seneca UNIANDES',
+            backdrop: `
+                rgba(0,0,123,0.4)
+                url("assets/videos/background.png")
+                left top
+                no-repeat
+            `
+        });
+    }
+    if ($("[sweet-alert]").length) {
+        $("[ver-video]").on('click', openAlert);
+        openAlert()
+    }
     /* ===== Cookies ===== */
     function setCookie(name, value, days) {
         var expires = "";
