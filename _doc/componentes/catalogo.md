@@ -5,10 +5,12 @@ sections:
 - Banner slider
 - Bloque descripción
 - Bloque franja Cifras
+- Bloque Galeria
 - Bloque imagen
 - Bloque slider tarjetas
 - Bloque tarjetas animadas
 - Bloque imagen Texto Botón
+- Bloque Lista de tarjetas
 - Bloque imagen más dos textos
 - Bloque reseña
 - Bloque subtitulo y texto de la página
@@ -19,7 +21,7 @@ sections:
 ## Diseño de bloques
 En este capítulo se explica los diferentes tipos de diseños que hay para cada vista 
 
-### **Bloque Acordeón**
+## **Bloque Acordeón**
 
 Este tipo de bloque al clickear se abre la información contenida, es de gran utilidad para no saturar la página con mucha información.
 
@@ -31,7 +33,7 @@ Este tipo de bloque al clickear se abre la información contenida, es de gran ut
 
 Está diseñado para la cabecera de los basic page, puedes agregar la cantidad de imágenes y diseños que gustes (te pedirá también imágenes para todos los dispositivos), puedes poner un botón en cada slide si quieres que redireccione a tu lugar de preferencia **Puedes agregar la cantidad de sliders con el diseño que desees**:
 
-### **Configuración de color**
+## **Configuración de color**
 
 En algunos diseños tendrás la opción de modificar el color del texto (Blanco o negro) y del fondo de color del texto a tu gusto, presionando el recuadro que aparecen en la siguiente imagen: 
 <a href="assets/images/basic/carrusel/color.jpg" data-magnify="gallery" >
@@ -82,35 +84,43 @@ En algunos diseños tendrás la opción de modificar el color del texto (Blanco 
     <img class="img-responsive rounded" src="assets/images/basic/carrusel/10-11.jpg" alt="Diseño slider Numero 10 y 11" />
 </a>
 
-### **Bloque descripción**
+## **Bloque descripción**
 
 Puedes poner una imagen acompañado del texto
 <a href="assets/images/basic/bloque_descripcion.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/basic/bloque_descripcion.jpg" alt="Bloque descripción" />
 </a>
 
-### **Bloque Franja Cifras**
+## **Bloque Franja Cifras**
 
 Puedes añadir las tarjetas en el botón “añadir tarjetas cifras”, **solo puedes añadir tarjetas 2 por columna**.
 <a href="assets/images/basic/bloque_cifras.JPG" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/basic/bloque_cifras.JPG" alt="Franja Cifras" />
 </a>
 
-### **Bloque imagen**
+## **Bloque Galeria**
+
+**Puedes poner la cantidad de imagenes que quieras**, adicional la opción de abrir la imagen en un modal y añadir creditos y una descripción.
+<a href="assets/images/basic/galeria.gif" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/basic/galeria.gif" alt="Galeria" />
+</a>
+
+
+## **Bloque imagen**
 
 solo es para una imagen, pero debes colocar los diferentes tipos de resoluciones que te solicita para cada tipo de dispositivos que se indican allí
 <a href="assets/images/basic/bloque_imagen.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/basic/bloque_imagen.jpg" alt="Bloque imagen" />
 </a>
 
-### **Bloque slider tarjetas**
+## **Bloque slider tarjetas**
 
 Diligencia los campos requeridos, puedes agregar las tarjetas en el botón “Añadir Tarjeta slider”. En cada tarjeta puedes cargar un video de tu preferencia.
 <a href="assets/images/basic/bloque_tarjetas.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/basic/bloque_tarjetas.jpg" alt="Bloque Slider tarjetas" />
 </a>
 
-### **Bloque tarjetas animadas**
+## **Bloque tarjetas animadas**
 
 En este bloque tienes una variedad de diseños las cuales puedes ajustar en el desplegable “Efecto visual”. **Solo puedes agregar 2 tarjetas por bloque**.
 
@@ -129,7 +139,7 @@ En este bloque tienes una variedad de diseños las cuales puedes ajustar en el d
     <img class="img-responsive rounded" src="assets/images/basic/bloque_animadas3.gif" alt="Bloque tarjetas animadas zoom" />
 </a>
 
-### **Bloque Imagen Texto Botón**
+## **Bloque Imagen Texto Botón**
 
 Tienes en total 9 diseños para elegir dependiendo las necesidades que tengas para tu sitio. 
 
@@ -178,43 +188,49 @@ Tienes en total 9 diseños para elegir dependiendo las necesidades que tengas pa
     <img class="img-responsive rounded" src="assets/images/basic/imagen_texto_boton_1.gif" alt="Bloque Imagen texto botón diseño 9" />
 </a>
 
+## **Bloque Lista de tarjetas**
 
-### **Bloque Imagen más dos textos**
+* Tarjeta compacta: Al momento de añadir, tendrás un desplegable "Efecto visual", donde podrás usar el diseño de tarjeta compacta. **Puedes agregar la cantidad de tarjetas que gustes, adicional podrás agregar maximo 2 enlaces**.
+<a href="assets/images/basic/tarjetas/1.jpg" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/basic/tarjetas/1.jpg" alt="Tarjeta compacta" />
+</a>
+
+## **Bloque Imagen más dos textos**
 
 Es fácil, solo debes subir las imágenes correspondientes para cada dispositivos que te pide y agregar los textos.
 <a href="assets/images/basic/bloque_imagen_textos.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/basic/bloque_imagen_textos.jpg" alt="Bloque Imagen más dos textos" />
 </a>
 
-### **Bloque Lista de tarjetas**
+## **Bloque Lista de tarjetas**
 
 Al crear un listado en la parte de “Efecto visual” DEBES dejar la opción de “Listado”, puedes agregar las tarjetas que gustes.
 <a href="assets/images/basic/bloque_lista_tarjetas.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/basic/bloque_lista_tarjetas.jpg" alt="Bloque Lista de tarjetas" />
 </a>
 
-### **Bloque reseña**
+## **Bloque reseña**
 
 Puedes agregar las reseñas que gustes, debes colocar imagenes con buena calidad”.
 <a href="assets/images/basic/bloque_resena.gif" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/basic/bloque_resena.gif" alt="Bloque reseña" />
 </a>
 
-### **Bloque Subtitulo y texto de la página**
+## **Bloque Subtitulo y texto de la página**
 
 Solo debes llenar los campos requeridos y seleccionar uno de los iconos que hay disponibles
 <a href="assets/images/basic/bloque_subtitulo.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/basic/bloque_subtitulo.jpg" alt="Bloque Subtitulo y texto de la página" />
 </a>
 
-### **Título de página**
+## **Título de página**
 
 Solo debes llenar los campos requeridos.
 <a href="assets/images/basic/bloque_titulo.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/basic/bloque_titulo.jpg" alt="Bloque titulo" />
 </a>
 
-### **Video**
+## **Video**
 
 Puedes agregar este bloque en la cabecera de la página
 <a href="assets/images/basic/video.jpg" data-magnify="gallery">
