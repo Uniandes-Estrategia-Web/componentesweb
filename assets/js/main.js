@@ -57,9 +57,8 @@ $(document).ready(function () {
             heightAuto: false,
             showCloseButton: true,
             confirmButtonText: "No volver a mostrar",
-            html: '<iframe width="100%" height="700" src="https://www.youtube.com/embed/AV0f65V7Wy0?si=gzj6lBpsXUhLtqi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+            html: '<iframe width="100%" height="400" class="mt-5" src="https://www.youtube.com/embed/AV0f65V7Wy0?si=gzj6lBpsXUhLtqi0" title="Seneca Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
             width: '1000',
-            imageAlt: 'Video Seneca UNIANDES',
             backdrop: `
                 rgba(0,0,0,0.4)
                 url("assets/videos/background.png")
@@ -77,7 +76,7 @@ $(document).ready(function () {
     if ($("[sweet-alert]").length) {
         $("[ver-video]").on('click', openAlert);
         if (!getCookie('sweetCookies')) {
-            openAlert()
+            //openAlert()
         }
     }
     /* ===== Cookies ===== */
