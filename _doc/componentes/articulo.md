@@ -45,7 +45,7 @@ Para temas de SEO debes ingresar al siguiente enlace donde verás toda la inform
 
 ## Paso 3
 
-En este paso, es necesario que haya creado en las taxonomias, tanto de articulo como tags  [Taxonimias](#Crear-taxonomia-para-tags-y-categorias){: .scrollto}
+En este paso, es necesario que haya creado en las taxonomias, tanto de articulo como tags  [taxonomias](#Crear-taxonomia-para-tags-y-categorias){: .scrollto}
 
 <div class="row">
 <div class="col-md-6 col-sm-6 col-xs-12">
@@ -56,8 +56,8 @@ En este paso, es necesario que haya creado en las taxonomias, tanto de articulo 
     
 <div class="col-md-6 col-sm-6 col-xs-12">
 <p>1. Puedes seleccionar: para blog, eventos o noticias</p>
-<p>2. Selecciona el elemento taxonimia previamente creado</p>
-<p>3. Busca la taxonimia previamente creada en tags, puedes agregar la cantidad que creas necesarias dando al botón "Añadir otro elemento"</p>
+<p>2. Selecciona el elemento taxonomia previamente creado</p>
+<p>3. Busca la taxonomia previamente creada en tags, puedes agregar la cantidad que creas necesarias dando al botón "Añadir otro elemento"</p>
  </div>
 </div>
 
