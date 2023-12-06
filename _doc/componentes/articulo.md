@@ -83,4 +83,7 @@ Puedes relacionar el contenido con otro articulo o con un elemento externo media
 
 ## Paso Final
 
-Debes darle al botón de guardar y quedaria listo
+Debes darle al botón de guardar y quedaria listo:
+<a href="assets/images/articulo/5.jpg" data-magnify="gallery" class="mask">
+    <img class="img-responsive rounded" src="assets/images/articulo/5.jpg" alt="Articulo parte 4" />
+</a>
