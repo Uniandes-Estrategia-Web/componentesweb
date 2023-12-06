@@ -16,7 +16,7 @@ Una vez iniciada su sesión, si un administrador te concedió los permisos adecu
     <img class="img-responsive rounded" src="assets/images/pagina/img_1.jpg" alt="Menú" />
 </a>
 
-Ya estando allí debes darle al botón **Añadir contenido** y elegir la primera opción **Basic page**: 
+Ya estando allí debes darle al botón **Añadir contenido** y elegir la opción **Basic page**: 
 
 Para temas de SEO debes ingresar al siguiente enlace donde verás toda la información al respecto
 [*&nbsp;*{: .fa .fa-info} Ver SEO](){: .btn .btn-primary}
