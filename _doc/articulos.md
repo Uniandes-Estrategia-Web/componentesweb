@@ -4,7 +4,7 @@ excerpt: En la guía podrás aprender crear desde cero un articulo, con tags, re
 date: 2023-12-06
 icon:
   type: fa
-  name: fa-home
+  name: fa-book
 color: black
 sections:
   - /componentes/taxonomias
