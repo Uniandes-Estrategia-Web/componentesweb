@@ -10,6 +10,7 @@ heading: ¡Comenzar es fácil!
 navigation:
   - /componentes
   - /landing
+  - /articulos
   - /colores
   - /basic_page
   - /menu_footer
