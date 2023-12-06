@@ -25,4 +25,5 @@ Es necesario crear taxonomias, ya sean para tags, categorias, entre otros; para 
     <img src="assets/images/articulo/taxonomia/3.jpg" alt="editar taxonomias" class="col-sm-8" />
 </a>
 
+4. Guarda las configuraciones, al crear el articulo, te aparecerán en lista los terminos creados
 

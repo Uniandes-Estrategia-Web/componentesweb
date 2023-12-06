@@ -1,5 +1,5 @@
 ---
-title: Craer un articulo
+title: Crear un articulo
 sections:
 - Paso 1
 - Paso 2
