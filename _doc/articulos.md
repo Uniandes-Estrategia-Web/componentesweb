@@ -9,5 +9,5 @@ color: black
 sections:
   - /componentes/taxonomias
   - /componentes/compartir_redes
-  - /articulo
+  - /componentes/articulo
 ---
