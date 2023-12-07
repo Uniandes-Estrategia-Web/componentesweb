@@ -71,7 +71,7 @@ $(document).ready(function () {
             }
         });
         //Reproducir
-        $("#guia")[0].play();
+        $("#guia").trigger('play');
     }
     
     //Open alert
