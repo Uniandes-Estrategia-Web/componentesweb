@@ -57,7 +57,7 @@ $(document).ready(function () {
             heightAuto: false,
             showCloseButton: true,
             confirmButtonText: "No volver a mostrar",
-            html: '<iframe width="100%" height="400" class="mt-5" src="https://www.youtube.com/embed/AV0f65V7Wy0?si=gzj6lBpsXUhLtqi0" title="Seneca Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+            html: '<video autoplay="" loop="" controls="" width="100%" height="400"><source type="video/mp4" src="https://plantillabase.test-uniandes.acsitefactory.com/sites/g/files/hunrwv131/files/2023-12/Estrategia%20Web.mp4"></video>',
             width: '1000',
             backdrop: `
                 rgba(0,0,0,0.4)
@@ -76,7 +76,7 @@ $(document).ready(function () {
     if ($("[sweet-alert]").length) {
         $("[ver-video]").on('click', openAlert);
         if (!getCookie('sweetCookies')) {
-            //openAlert()
+            openAlert()
         }
     }
     /* ===== Cookies ===== */
