@@ -69,10 +69,6 @@ $(document).ready(function () {
                 no-repeat
             `
         }).then((result) => {
-            //Reproducir
-            
-            console.log($("video"));
-            $("video").trigger('play');
             if (result.isConfirmed) {
                 setCookie('sweetCookies', '1', 99)
             }
