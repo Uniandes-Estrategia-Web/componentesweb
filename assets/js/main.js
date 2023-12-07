@@ -58,9 +58,9 @@ $(document).ready(function () {
             showCloseButton: true,
             confirmButtonText: "No volver a mostrar",
             customClass: {
-                confirmButton: 'order-2',
+                confirmButton: 'btn-negro btn-cta',
             },
-            html: '<video id="guia" autoplay loop controls width="800" height="550"><source type="video/mp4" src="https://plantillabase.test-uniandes.acsitefactory.com/sites/g/files/hunrwv131/files/2023-12/Estrategia%20Web.mp4"></video>',
+            html: '<video id="guia" autoplay loop controls width="100%" height="550"><source type="video/mp4" src="https://plantillabase.test-uniandes.acsitefactory.com/sites/g/files/hunrwv131/files/2023-12/Estrategia%20Web.mp4"></video>',
             width: '1000',
             backdrop: `
                 rgba(0,0,0,0.4)
@@ -69,11 +69,13 @@ $(document).ready(function () {
                 no-repeat
             `
         }).then((result) => {
+            //Reproducir
+            $("#guia").trigger('play');
             if (result.isConfirmed) {
                 setCookie('sweetCookies', '1', 99)
             }
         });
-        //Reproducir
+        
         
     }
 
@@ -83,7 +85,6 @@ $(document).ready(function () {
         if (!getCookie('sweetCookies')) {
             openAlert()
         }
-        $("#guia").trigger('play');
     }
     /* ===== Cookies ===== */
     function setCookie(name, value, days) {
