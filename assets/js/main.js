@@ -62,15 +62,15 @@ $(document).ready(function () {
             },
             html: '<video id="guia" class="mt-5" autoplay loop controls width="100%" height="550"><source type="video/mp4" src="https://plantillabase.test-uniandes.acsitefactory.com/sites/g/files/hunrwv131/files/2023-12/Estrategia%20Web.mp4"></video>',
             width: '1000',
-            didOpen: () => {
-                $("video").trigger('play');
-            },
             backdrop: `
                 rgba(0,0,0,0.4)
                 url("assets/videos/background.png")
                 left top
                 no-repeat
-            `
+            `,
+            didOpen: () => {
+                document.getElementById('guia').play();
+            },
         }).then((result) => {
             if (result.isConfirmed) {
                 setCookie('sweetCookies', '1', 99)
