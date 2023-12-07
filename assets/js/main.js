@@ -57,7 +57,7 @@ $(document).ready(function () {
             heightAuto: false,
             showCloseButton: true,
             confirmButtonText: "No volver a mostrar",
-            html: '<video autoplay="" loop="" controls="" width="100%" height="400"><source type="video/mp4" src="https://plantillabase.test-uniandes.acsitefactory.com/sites/g/files/hunrwv131/files/2023-12/Estrategia%20Web.mp4"></video>',
+            html: '<video id="guia" autoplay loop controls width="800" height="550"><source type="video/mp4" src="https://plantillabase.test-uniandes.acsitefactory.com/sites/g/files/hunrwv131/files/2023-12/Estrategia%20Web.mp4"></video>',
             width: '1000',
             backdrop: `
                 rgba(0,0,0,0.4)
@@ -70,6 +70,8 @@ $(document).ready(function () {
                 setCookie('sweetCookies', '1', 99)
             }
         });
+        //Reproducir
+        $("#guia")[0].play();
     }
     
     //Open alert
