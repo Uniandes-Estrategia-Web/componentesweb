@@ -76,8 +76,7 @@ $(document).ready(function () {
                 setCookie('sweetCookies', '1', 99)
             }
         });
-
-
+        document.getElementById('guia').play();
     }
 
     //Open alert
