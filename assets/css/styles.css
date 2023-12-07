@@ -238,8 +238,8 @@ a.btn-negro.hover {
 }
 
 .btn-cta {
-    padding: 7px 15px;
-    font-size: 1.4rem;
+    padding: 7px 15px !important;
+    font-size: 1.4rem !important;
 }
 
 .form-control {

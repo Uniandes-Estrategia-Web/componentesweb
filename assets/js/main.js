@@ -57,6 +57,9 @@ $(document).ready(function () {
             heightAuto: false,
             showCloseButton: true,
             confirmButtonText: "No volver a mostrar",
+            customClass: {
+                confirmButton: 'order-2',
+            },
             html: '<video id="guia" autoplay loop controls width="800" height="550"><source type="video/mp4" src="https://plantillabase.test-uniandes.acsitefactory.com/sites/g/files/hunrwv131/files/2023-12/Estrategia%20Web.mp4"></video>',
             width: '1000',
             backdrop: `
@@ -71,15 +74,16 @@ $(document).ready(function () {
             }
         });
         //Reproducir
-        $("#guia").trigger('play');
+        
     }
-    
+
     //Open alert
     if ($("[sweet-alert]").length) {
         $("[ver-video]").on('click', openAlert);
         if (!getCookie('sweetCookies')) {
             openAlert()
         }
+        $("#guia").trigger('play');
     }
     /* ===== Cookies ===== */
     function setCookie(name, value, days) {
