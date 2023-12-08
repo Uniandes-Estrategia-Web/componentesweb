@@ -82,9 +82,9 @@ $(document).ready(function () {
     //Open alert
     if ($("[sweet-alert]").length) {
         var botonVideo = $("[ver-video]");
-        botonVideo.on('click', openAlert);
+        $("[ver-video]").on('click', openAlert);
         if (!getCookie('sweetCookies')) {
-            botonVideo.click();
+            //botonVideo.click();
         }
     }
     /* ===== Cookies ===== */
