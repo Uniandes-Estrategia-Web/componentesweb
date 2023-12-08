@@ -81,9 +81,10 @@ $(document).ready(function () {
 
     //Open alert
     if ($("[sweet-alert]").length) {
-        $("[ver-video]").on('click', openAlert);
+        var botonVideo = $("[ver-video]");
+        botonVideo.on('click', openAlert);
         if (!getCookie('sweetCookies')) {
-            openAlert();
+            botonVideo.click();
         }
     }
     /* ===== Cookies ===== */
