@@ -76,7 +76,6 @@ $(document).ready(function () {
                 setCookie('sweetCookies', '1', 99)
             }
         });
-        document.getElementById('guia').play();
     }
 
     //Open alert
@@ -84,7 +83,7 @@ $(document).ready(function () {
         var botonVideo = $("[ver-video]");
         $("[ver-video]").on('click', openAlert);
         if (!getCookie('sweetCookies')) {
-            //botonVideo.click();
+            $("[ver-video]").click();
         }
     }
     /* ===== Cookies ===== */
