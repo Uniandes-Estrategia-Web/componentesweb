@@ -60,7 +60,7 @@ $(document).ready(function () {
             customClass: {
                 confirmButton: 'btn-negro btn-cta',
             },
-            html: '<video id="guia" class="mt-5" autoplay loop controls width="100%" height="550"><source type="video/mp4" src="https://github.com/Uniandes-Estrategia-Web/componentesweb/raw/b021d958ea49945eb2c948363675f98ce602545d/assets/videos/Seneca.mp4?download="></video>',
+            html: '<video id="guia" class="mt-5" autoplay="" loop="" controls="" width="100%" height="550"><source type="video/mp4" src="https://github.com/Uniandes-Estrategia-Web/componentesweb/raw/b021d958ea49945eb2c948363675f98ce602545d/assets/videos/Seneca.mp4"></video>',
             width: '1000',
             backdrop: `
                 rgba(0,0,0,0.4)
@@ -68,9 +68,6 @@ $(document).ready(function () {
                 left top
                 no-repeat
             `,
-            didOpen: () => {
-                document.getElementById('guia').play();
-            },
         }).then((result) => {
             if (result.isConfirmed) {
                 setCookie('sweetCookies', '1', 99)
@@ -80,7 +77,6 @@ $(document).ready(function () {
 
     //Open alert
     if ($("[sweet-alert]").length) {
-        var botonVideo = $("[ver-video]");
         $("[ver-video]").on('click', openAlert);
         if (!getCookie('sweetCookies')) {
             $("[ver-video]").click();
