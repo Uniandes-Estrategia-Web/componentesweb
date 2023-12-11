@@ -15,7 +15,7 @@ Una vez iniciada su sesión, si un administrador te concedió los permisos adecu
 Ya estando allí debes darle al botón **Añadir contenido** y elegir la opción **Landing**: 
 
 Para temas de SEO debes ingresar al siguiente enlace donde verás toda la información al respecto
-[*&nbsp;*{: .fa .fa-info} Ver SEO](){: .btn .btn-primary}
+[*&nbsp;*{: .fa .fa-info} Ver SEO](./configuraciones.html){: .btn .btn-primary}
 
 
 ### Paso 1
