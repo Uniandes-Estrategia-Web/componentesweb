@@ -12,6 +12,7 @@ navigation:
   - /landing
   - /articulos
   - /colores
+  - /multimedia
   - /basic_page
   - /menu_footer
   - /seo
