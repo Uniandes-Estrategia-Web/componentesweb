@@ -77,7 +77,9 @@ Puedes relacionar el contenido con otro articulo o con un elemento externo media
       <li>Interno: Te aparecerá un campo, debes buscar el nombre del articulo que previamente hayas creado</li>
       <li>Externo: Ingresa la URL en el campo nuevo que aparece, puedes marcar la opción de abrir en una pestaña nueva</li>
     </ul>
-<p>2. Debes agregar una imagen del tamañño 364*233px para mostrar en una tarjeta</p>
+<p>2. Debes agregar una imagen del tamañño 364*233px para mostrar en una tarjeta 
+<a class="btn .btn-primary" href="./multimedia">Ver multimedia</a></p>
+    
  </div>
 </div>
 
