@@ -4,7 +4,7 @@ sections:
 - Paso 1
 - Paso 2
 - Paso 3
-- Paso 4
+- Relacionar contenido
 - Paso final
 ---
 
@@ -17,7 +17,7 @@ Una vez iniciada su sesión, si un administrador te concedió los permisos adecu
 Ya estando allí debes darle al botón **Añadir contenido** y elegir la opción **Article**: 
 
 Para temas de SEO debes ingresar al siguiente enlace donde verás toda la información al respecto
-[*&nbsp;*{: .fa .fa-info} Ver SEO](/configuraciones.html){: .btn .btn-primary}
+[*&nbsp;*{: .fa .fa-info} Ver SEO](./configuraciones.html){: .btn .btn-primary}
 
 ### Paso 1
 
@@ -61,9 +61,10 @@ En este paso, es necesario que haya creado en las taxonomias, tanto de articulo 
  </div>
 </div>
 
-## Paso 4 
+## Relacionar contenido
 
-Puedes relacionar el contenido con otro articulo o con un elemento externo mediante url
+Puedes relacionar el contenido con otro articulo o con un elemento externo mediante enlaces
+
 <div class="row">
 <div class="col-md-7 col-sm-7 col-xs-12">
 <a href="assets/images/articulo/4.jpg" data-magnify="gallery" class="mask">
@@ -73,13 +74,16 @@ Puedes relacionar el contenido con otro articulo o con un elemento externo media
 <div class="col-md-5 col-sm-5 col-xs-12">
 <p>1. Puedes seleccionar: interno o externo</p>
     <ul>
-      <li>Interno: Te aparecerá un campo, debes buscar el articulo que previamente hayas creado y la opción de abrir en una pestaña nueva</li>
-      <li>Externo: Ingresa la URL en el campo nuevo que aparece</li>
+      <li>Interno: Te aparecerá un campo, debes buscar el nombre del articulo que previamente hayas creado</li>
+      <li>Externo: Ingresa la URL en el campo nuevo que aparece, puedes marcar la opción de abrir en una pestaña nueva</li>
     </ul>
 <p>2. Debes agregar una imagen del tamañño 364*233px para mostrar en una tarjeta</p>
  </div>
 </div>
 
+<a href="assets/images/articulo/4-1.jpg" data-magnify="gallery" class="mask">
+    <img class="img-responsive rounded" src="assets/images/articulo/4-1.jpg" alt="Articulo parte 4.1" />
+</a>
 
 ## Paso Final
 

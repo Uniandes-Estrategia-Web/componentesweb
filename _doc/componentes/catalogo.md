@@ -101,8 +101,8 @@ Puedes añadir las tarjetas en el botón “añadir tarjetas cifras”, **solo p
 ## **Bloque Galeria**
 
 **Puedes poner la cantidad de imagenes que quieras**, adicional la opción de abrir la imagen en un modal y añadir creditos y una descripción.
-<a href="assets/images/basic/galeria.gif" data-magnify="gallery">
-    <img class="img-responsive rounded" src="assets/images/basic/galeria.gif" alt="Galeria" />
+<a href="assets/images/basic/galeria.gif?v1" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/basic/galeria.gif?v1" alt="Galeria" />
 </a>
 
 
@@ -135,8 +135,8 @@ En este bloque tienes una variedad de diseños las cuales puedes ajustar en el d
 </a>
 
 * Efecto “Zoom Over”
-<a href="assets/images/basic/bloque_animadas3.gif" data-magnify="gallery">
-    <img class="img-responsive rounded" src="assets/images/basic/bloque_animadas3.gif" alt="Bloque tarjetas animadas zoom" />
+<a href="assets/images/basic/bloque_animadas3.gif?v1" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/basic/bloque_animadas3.gif?v1" alt="Bloque tarjetas animadas zoom" />
 </a>
 
 ## **Bloque Imagen Texto Botón**
@@ -190,23 +190,21 @@ Tienes en total 9 diseños para elegir dependiendo las necesidades que tengas pa
 
 ## **Bloque Lista de tarjetas**
 
-* Tarjeta compacta: Al momento de añadir, tendrás un desplegable "Efecto visual", donde podrás usar el diseño de tarjeta compacta. **Puedes agregar la cantidad de tarjetas que gustes, adicional podrás agregar maximo 2 enlaces**.
+*  <b>Tarjeta compacta</b>: Al momento de añadir, tendrás un desplegable "Efecto visual", donde podrás usar el diseño de tarjeta compacta. **Puedes agregar la cantidad de tarjetas que gustes, adicional podrás agregar maximo 2 enlaces**.
 <a href="assets/images/basic/tarjetas/1.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/basic/tarjetas/1.jpg" alt="Tarjeta compacta" />
 </a>
+*  <b>Listado</b>: Al momento de añadir, tendrás un desplegable "Efecto visual", donde podrás usar el diseño de listado. **Puedes agregar la cantidad de tarjetas que gustes, adicional podrás agregar maximo 1 enlace**.
+<a href="assets/images/basic/bloque_lista_tarjetas.jpg" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/basic/bloque_lista_tarjetas.jpg" alt="Bloque Lista de tarjetas" />
+</a>
+
 
 ## **Bloque Imagen más dos textos**
 
 Es fácil, solo debes subir las imágenes correspondientes para cada dispositivos que te pide y agregar los textos.
 <a href="assets/images/basic/bloque_imagen_textos.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/basic/bloque_imagen_textos.jpg" alt="Bloque Imagen más dos textos" />
-</a>
-
-## **Bloque Lista de tarjetas**
-
-Al crear un listado en la parte de “Efecto visual” DEBES dejar la opción de “Listado”, puedes agregar las tarjetas que gustes.
-<a href="assets/images/basic/bloque_lista_tarjetas.jpg" data-magnify="gallery">
-    <img class="img-responsive rounded" src="assets/images/basic/bloque_lista_tarjetas.jpg" alt="Bloque Lista de tarjetas" />
 </a>
 
 ## **Bloque reseña**
